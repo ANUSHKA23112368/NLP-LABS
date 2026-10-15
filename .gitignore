@@ -1,3 +1,5 @@
 .venv/
+Twitter_Data.csv
+outputs_pretrained/cleaned_twitter_data.csv
+outputs_pretrained/predictions.csv
 __pycache__/
-*.pyc
